@@ -1,0 +1,17 @@
+{
+  "name": "meli-coding-test-backend",
+  "version": "1.0.0",
+  "description": "Api for the mercadolibre test client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Yensy Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  }
+}
